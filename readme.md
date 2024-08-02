@@ -202,7 +202,7 @@
 - AAAI 2020, <i>Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks</i> [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5393)]
 - COLING 2020, <i>Debunking Rumors on Twitter with Tree Transformer</i> [[Paper](https://aclanthology.org/2020.coling-main.476.pdf?ref=https://githubhelp.com)]
 - ACL 2018, <i>Rumor Detection on Twitter with Tree-structured Recursive Neural Networks</i> [[Paper](https://aclanthology.org/P18-1184.pdf)]
-
+- AAAI 2022, Early Detection of Fake News on Social Media Through Propagation Path Classification with Recurrent and Convolutional Networks
 ##### with Unreliable Propagations
 
 - ACL 2021, <i>Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection</i> [[Paper](https://aclanthology.org/2021.acl-long.297.pdf)]
